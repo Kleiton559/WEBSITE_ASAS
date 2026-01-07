@@ -249,11 +249,6 @@
             transition: transform 0.3s ease;
         }
 
-        /*Alinhando justificado o texto*/
-        .sobre-card p{
-            text-align: justify;
-        }
-
         .sobre-card:hover {
             transform: translateY(-5px);
         }
@@ -438,9 +433,6 @@
 
         .noticia-content {
             padding: 1.5rem;
-        }
-        .noticia-content p{
-            text-align: justify;
         }
 
         .noticia-data {
